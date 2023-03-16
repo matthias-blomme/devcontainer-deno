@@ -1,0 +1,9 @@
+{
+  "name": "devcontainer-deno",
+  "repository": "https://github.com/matthias-blomme/devcontainer-deno/new/main",
+  "description": "Deno app template using Github Codespace",
+  "files": [
+    ".devcontainer/devcontainer.json",
+    ".devcontainer/Dockerfile"
+  ]
+}

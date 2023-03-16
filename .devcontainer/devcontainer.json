@@ -10,5 +10,9 @@
 		"deno.enable": true,
 		"deno.lint": true,
 		"editor.defaultFormatter": "denoland.vscode-deno"
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/sshd:1": {
+			"version": "latest"
 	}
 }

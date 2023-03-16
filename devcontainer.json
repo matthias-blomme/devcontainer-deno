@@ -1,0 +1,14 @@
+{
+	"name": "Deno",
+	"build": { "dockerfile": "Dockerfile" },
+	"extensions": [
+		"github.copilot",
+		"vscodevim.vim",
+		"denoland.vscode-deno"
+	],
+	"settings": { 
+		"deno.enable": true,
+		"deno.lint": true,
+		"editor.defaultFormatter": "denoland.vscode-deno"
+	}
+}
